@@ -177,7 +177,7 @@ String someOneWin = "wins";
                 result = "o Wins";
             break; }
             if (freeSpots == 0)
-                result = "tie";
+                result = "Tie";
         }
         //Student code goes here ...
         return result;
